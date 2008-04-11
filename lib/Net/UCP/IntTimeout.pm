@@ -9,7 +9,7 @@ require Exporter;
 our @ISA = qw(Exporter);
 our @EXPORT = qw();
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 use constant MIN_TIMEOUT     => 0;           # No timeout at all!
 use constant DEFAULT_TIMEOUT => 15;
