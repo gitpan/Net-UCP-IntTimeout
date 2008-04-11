@@ -4,3 +4,5 @@ Revision history for Perl extension Net::UCP::IntTimeout.
 	- original version; created by h2xs 1.23 with options
 		-AXn Net::UCP::IntTimeout
 
+0.03  Thu Apr 10 16:47:38 CEST 2008 	
+	- cpan tester bugs
